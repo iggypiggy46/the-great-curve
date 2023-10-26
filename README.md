@@ -1,5 +1,7 @@
-# YOUR SONG
+# The Great Curve by Talking Heads
 
-> Lyric from your song
+> Bounces and bops
 
 ## Citations
+[Genius](https://genius.com/Talking-heads-the-great-curve-lyrics)
+[Open Props](https://open-props.style/)
