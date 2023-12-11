@@ -18,6 +18,16 @@ body {
  text-align: center;
   font-family: 'Quicksand', sans-serif;
 }
+
 .byrnedance {
+  align-items: center;
   background-image: url(Byrne.mp4);
+  border: 8px outset blanchedalmond;
+
+
+  }
+
+ p {
+    border: 100px black;
+    border-radius: var(--radius-conditional-3);
   }
